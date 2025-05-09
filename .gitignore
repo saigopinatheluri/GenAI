@@ -1,3 +1,6 @@
 *.png
 *.JPG
 *.ini
+*.h5
+*.keras
+*.jpg
