@@ -4,3 +4,6 @@
 *.h5
 *.keras
 *.jpg
+*.pkl
+*.pt
+*.csv
