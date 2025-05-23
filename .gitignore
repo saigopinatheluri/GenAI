@@ -7,3 +7,6 @@
 *.pkl
 *.pt
 *.csv
+*.hdf5
+*.zip
+
