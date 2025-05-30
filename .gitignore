@@ -9,4 +9,11 @@
 *.csv
 *.hdf5
 *.zip
-
+aclImdb*
+ChopinNocturnesGenerated*
+glove.6B.100d.txt
+Italian.txt
+nocturnesNotesLibrary
+conlleval.py
+__pycache__
+conll_*
