@@ -17,3 +17,7 @@ nocturnesNotesLibrary
 conlleval.py
 __pycache__
 conll_*
+gpt2/
+*.pth
+instruction-data*
+loss-plot.pdf
